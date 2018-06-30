@@ -1,3 +1,0 @@
-# Studying
- Hard work
-xcxzvsada
