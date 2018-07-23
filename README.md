@@ -1,4 +1,0 @@
-# Studying
- Hard work
-
-sssssdjlk
