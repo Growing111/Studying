@@ -1,2 +1,0 @@
-# Studying
- Hard work
