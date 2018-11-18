@@ -4,15 +4,15 @@
 	in order to learn java,将自己学习java过程中重要的记录下来。
 
 # 正文
+
 # java基础
---
 * [抽象类和接口](https://growing111.github.io/2018/09/14/%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3/)
 * 多态
 * 重载和重构
 
 	
 	
-#多线程
+# 多线程
 * [线程](https://growing111.github.io/2018/10/03/%E7%BA%BF%E7%A8%8B/) 
 	
 	
