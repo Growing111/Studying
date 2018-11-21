@@ -25,12 +25,12 @@
 # jvm
 * [java内存](https://growing111.github.io/2018/09/22/JVM%E5%86%85%E5%AD%98/)
 * [垃圾回收算法](https://growing111.github.io/2018/10/29/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E7%AE%97%E6%B3%95/)
-
+*  [垃圾收集器](https://growing111.github.io/2018/11/11/%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/)
 
 	
 # 设计模式
 * [单例模式](https://growing111.github.io/2018/07/25/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/)
-
+* [策略模式](https://growing111.github.io/2018/11/13/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/) 
 
 
 
