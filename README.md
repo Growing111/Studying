@@ -8,8 +8,9 @@
 # java基础
 * [抽象类和接口](https://growing111.github.io/2018/09/14/%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3/)
 * [反射](https://growing111.github.io/2018/11/15/JAVA-%E5%8F%8D%E5%B0%84/)
-* 多态
-* 重载和重构
+* [重载和重写](https://growing111.github.io/2018/11/24/%E9%87%8D%E8%BD%BD%E4%B8%8E%E9%87%8D%E5%86%99/)
+* [多态]
+ 
 
 	
 	
