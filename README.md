@@ -1,9 +1,9 @@
 # Studying
 
 # title
-	in order to learn java,将自己学习java过程中重要的记录下来。
+>这是一些我日常在java方面的学习笔记，有些是我在书上看到的知识点整理下记录下来，有些是在面试中经常遇到的面试点，
+还有一些就是必须清楚的java基础知识点，记录在此方便自己以后更系统的复习。
 
-# 正文
 
 # java基础
 * [抽象类和接口](https://growing111.github.io/2018/09/14/%E6%8A%BD%E8%B1%A1%E7%B1%BB%E5%92%8C%E6%8E%A5%E5%8F%A3/)
