@@ -31,9 +31,9 @@
 
 	
 # 设计模式
-* [单例模式](https://growing111.github.io/2018/07/25/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/)
-* [策略模式](https://growing111.github.io/2018/11/13/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/) 
-
+* [设计模式之单例模式](https://growing111.github.io/2018/07/25/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/)
+* [设计模式之策略模式](https://growing111.github.io/2018/11/13/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/) 
+* [设计模式之工厂模式](https://growing111.github.io/2018/12/01/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/)
 
 
 # 简单常用算法
