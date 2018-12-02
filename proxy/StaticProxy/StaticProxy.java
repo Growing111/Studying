@@ -1,4 +1,3 @@
-package cn.com.proxy;
 
 //代理类
 public class StaticProxy implements PrintService{
