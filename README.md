@@ -34,7 +34,7 @@
 * [设计模式之单例模式](https://growing111.github.io/2018/07/25/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/)
 * [设计模式之策略模式](https://growing111.github.io/2018/11/13/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/) 
 * [设计模式之工厂模式](https://growing111.github.io/2018/12/01/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/)
-* [设计模式之代理模式]()
+* [设计模式之代理模式](https://growing111.github.io/2018/12/01/%E4%BB%A3%E7%90%86%E6%A8%A1%E5%BC%8F/)
 
 # 简单常用算法
 * [冒泡和选择排序](https://growing111.github.io/2018/09/16/%E5%86%92%E6%B3%A1%E4%B8%8E%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/)
