@@ -16,7 +16,7 @@
 	
 # 多线程
 * [线程](https://growing111.github.io/2018/10/03/%E7%BA%BF%E7%A8%8B/) 
-	
+* [多线程之interrupted与isInterrupted](https://growing111.github.io/2018/12/08/%E5%A4%9A%E7%BA%BF%E7%A8%8B%E4%B9%8Binterrupted%E4%B8%8EisInterrupted)  	
 	
 	
 # 集合
